@@ -1,0 +1,24 @@
+# Environment variables (API keys)
+.env
+.env.local
+.env.production
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Test logs (may contain player data)
+test-logs/
+**/test-logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Cache
+cache/

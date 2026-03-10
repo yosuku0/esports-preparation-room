@@ -1,0 +1,1042 @@
+{
+  "players": [
+    {
+      "gameName": "Perle",
+      "tagLine": "2201",
+      "puuid": "wkpns_-PkE8-WSUjCSstbFsXs5jU66ZGV4REF8o6jMYCEoz0NAkFRJYQ-9YsTV_Hj1dCLM93ZTe8lA",
+      "recentMatches": [
+        {
+          "championName": "Renekton",
+          "win": false,
+          "kills": 11,
+          "deaths": 6,
+          "assists": 1,
+          "kda": "11/6/1",
+          "coreItems": [
+            "Death's Dance",
+            "Sterak's Gage",
+            "Spear of Shojin"
+          ],
+          "csPerMin": 8.4,
+          "gameDurationMin": 29.7,
+          "visionScore": 21
+        },
+        {
+          "championName": "Darius",
+          "win": true,
+          "kills": 8,
+          "deaths": 1,
+          "assists": 0,
+          "kda": "8/1/0",
+          "coreItems": [
+            "Youmuu's Ghostblade"
+          ],
+          "csPerMin": 7.5,
+          "gameDurationMin": 15.3,
+          "visionScore": 11
+        },
+        {
+          "championName": "Ambessa",
+          "win": false,
+          "kills": 1,
+          "deaths": 4,
+          "assists": 3,
+          "kda": "1/4/3",
+          "coreItems": [
+            "Spear of Shojin",
+            "Eclipse"
+          ],
+          "csPerMin": 7.6,
+          "gameDurationMin": 24.7,
+          "visionScore": 25
+        },
+        {
+          "championName": "Sion",
+          "win": true,
+          "kills": 3,
+          "deaths": 2,
+          "assists": 16,
+          "kda": "3/2/16",
+          "coreItems": [
+            "Unending Despair",
+            "Spirit Visage",
+            "Sunfire Aegis"
+          ],
+          "csPerMin": 6.9,
+          "gameDurationMin": 32.5,
+          "visionScore": 40
+        },
+        {
+          "championName": "Aatrox",
+          "win": false,
+          "kills": 5,
+          "deaths": 5,
+          "assists": 5,
+          "kda": "5/5/5",
+          "coreItems": [
+            "Death's Dance",
+            "Spear of Shojin",
+            "Sundered Sky"
+          ],
+          "csPerMin": 6.6,
+          "gameDurationMin": 36.4,
+          "visionScore": 50
+        },
+        {
+          "championName": "KSante",
+          "win": true,
+          "kills": 7,
+          "deaths": 2,
+          "assists": 12,
+          "kda": "7/2/12",
+          "coreItems": [
+            "Iceborn Gauntlet",
+            "Kaenic Rookern",
+            "Unending Despair"
+          ],
+          "csPerMin": 7.4,
+          "gameDurationMin": 28.9,
+          "visionScore": 26
+        },
+        {
+          "championName": "Zaahen",
+          "win": true,
+          "kills": 3,
+          "deaths": 3,
+          "assists": 4,
+          "kda": "3/3/4",
+          "coreItems": [
+            "Trinity Force",
+            "Sundered Sky"
+          ],
+          "csPerMin": 6.9,
+          "gameDurationMin": 28.7,
+          "visionScore": 30
+        },
+        {
+          "championName": "Zaahen",
+          "win": true,
+          "kills": 3,
+          "deaths": 2,
+          "assists": 9,
+          "kda": "3/2/9",
+          "coreItems": [
+            "Trinity Force",
+            "Stridebreaker"
+          ],
+          "csPerMin": 7.7,
+          "gameDurationMin": 32.1,
+          "visionScore": 38
+        },
+        {
+          "championName": "Zaahen",
+          "win": false,
+          "kills": 1,
+          "deaths": 0,
+          "assists": 0,
+          "kda": "1/0/0",
+          "coreItems": [
+            "Trinity Force"
+          ],
+          "csPerMin": 8.2,
+          "gameDurationMin": 15.5,
+          "visionScore": 14
+        },
+        {
+          "championName": "Zaahen",
+          "win": true,
+          "kills": 3,
+          "deaths": 1,
+          "assists": 6,
+          "kda": "3/1/6",
+          "coreItems": [
+            "Trinity Force",
+            "Stridebreaker"
+          ],
+          "csPerMin": 8.5,
+          "gameDurationMin": 19.9,
+          "visionScore": 15
+        }
+      ],
+      "summary": {
+        "championPool": [
+          {
+            "champion": "Zaahen",
+            "games": 4,
+            "wins": 3,
+            "winRate": 0.75
+          },
+          {
+            "champion": "Darius",
+            "games": 1,
+            "wins": 1,
+            "winRate": 1
+          },
+          {
+            "champion": "KSante",
+            "games": 1,
+            "wins": 1,
+            "winRate": 1
+          },
+          {
+            "champion": "Sion",
+            "games": 1,
+            "wins": 1,
+            "winRate": 1
+          },
+          {
+            "champion": "Aatrox",
+            "games": 1,
+            "wins": 0,
+            "winRate": 0
+          },
+          {
+            "champion": "Ambessa",
+            "games": 1,
+            "wins": 0,
+            "winRate": 0
+          },
+          {
+            "champion": "Renekton",
+            "games": 1,
+            "wins": 0,
+            "winRate": 0
+          }
+        ],
+        "totalGames": 10,
+        "totalWinRate": 0.6,
+        "avgKDA": "4.5/2.6/5.6",
+        "avgCsPerMin": 7.6,
+        "avgGameDurationMin": 26.4,
+        "avgVisionScore": 27
+      }
+    },
+    {
+      "gameName": "ShadowIsles0",
+      "tagLine": "JP1",
+      "puuid": "FXsoXky-h9ECs2Xy7m1SxqpGC6_zQ0b4UAz_RKB-O9xKgYKlv0bOvs146VN_g4rp8vPzSQMumZSX5w",
+      "recentMatches": [
+        {
+          "championName": "Pantheon",
+          "win": true,
+          "kills": 3,
+          "deaths": 8,
+          "assists": 10,
+          "kda": "3/8/10",
+          "coreItems": [
+            "Sundered Sky",
+            "Maw of Malmortius"
+          ],
+          "csPerMin": 0.9,
+          "gameDurationMin": 41.3,
+          "visionScore": 138
+        },
+        {
+          "championName": "Elise",
+          "win": true,
+          "kills": 0,
+          "deaths": 0,
+          "assists": 0,
+          "kda": "0/0/0",
+          "coreItems": [],
+          "csPerMin": 0,
+          "gameDurationMin": 1.2,
+          "visionScore": 0
+        },
+        {
+          "championName": "Graves",
+          "win": true,
+          "kills": 20,
+          "deaths": 3,
+          "assists": 8,
+          "kda": "20/3/8",
+          "coreItems": [
+            "Infinity Edge",
+            "Guardian Angel",
+            "The Collector"
+          ],
+          "csPerMin": 9.4,
+          "gameDurationMin": 30.1,
+          "visionScore": 43
+        },
+        {
+          "championName": "Viego",
+          "win": true,
+          "kills": 17,
+          "deaths": 7,
+          "assists": 8,
+          "kda": "17/7/8",
+          "coreItems": [
+            "Lord Dominik's Regards",
+            "The Collector",
+            "Kraken Slayer"
+          ],
+          "csPerMin": 7.8,
+          "gameDurationMin": 31.8,
+          "visionScore": 34
+        },
+        {
+          "championName": "Elise",
+          "win": true,
+          "kills": 4,
+          "deaths": 10,
+          "assists": 11,
+          "kda": "4/10/11",
+          "coreItems": [
+            "Shadowflame",
+            "Stormsurge"
+          ],
+          "csPerMin": 1,
+          "gameDurationMin": 28.8,
+          "visionScore": 96
+        },
+        {
+          "championName": "Viego",
+          "win": false,
+          "kills": 9,
+          "deaths": 5,
+          "assists": 3,
+          "kda": "9/5/3",
+          "coreItems": [
+            "The Collector",
+            "Kraken Slayer",
+            "Mortal Reminder"
+          ],
+          "csPerMin": 8.4,
+          "gameDurationMin": 33.2,
+          "visionScore": 50
+        },
+        {
+          "championName": "Pantheon",
+          "win": true,
+          "kills": 3,
+          "deaths": 7,
+          "assists": 13,
+          "kda": "3/7/13",
+          "coreItems": [
+            "Sundered Sky",
+            "Black Cleaver"
+          ],
+          "csPerMin": 1,
+          "gameDurationMin": 30.7,
+          "visionScore": 97
+        },
+        {
+          "championName": "Graves",
+          "win": false,
+          "kills": 5,
+          "deaths": 8,
+          "assists": 5,
+          "kda": "5/8/5",
+          "coreItems": [
+            "The Collector",
+            "Mortal Reminder",
+            "Hubris"
+          ],
+          "csPerMin": 6.6,
+          "gameDurationMin": 35.5,
+          "visionScore": 37
+        },
+        {
+          "championName": "Elise",
+          "win": false,
+          "kills": 3,
+          "deaths": 8,
+          "assists": 6,
+          "kda": "3/8/6",
+          "coreItems": [
+            "Stormsurge"
+          ],
+          "csPerMin": 0.7,
+          "gameDurationMin": 27.3,
+          "visionScore": 74
+        },
+        {
+          "championName": "Hecarim",
+          "win": true,
+          "kills": 5,
+          "deaths": 2,
+          "assists": 4,
+          "kda": "5/2/4",
+          "coreItems": [
+            "Death's Dance",
+            "Spear of Shojin",
+            "Endless Hunger"
+          ],
+          "csPerMin": 9.2,
+          "gameDurationMin": 26.2,
+          "visionScore": 23
+        }
+      ],
+      "summary": {
+        "championPool": [
+          {
+            "champion": "Elise",
+            "games": 3,
+            "wins": 2,
+            "winRate": 0.667
+          },
+          {
+            "champion": "Pantheon",
+            "games": 2,
+            "wins": 2,
+            "winRate": 1
+          },
+          {
+            "champion": "Graves",
+            "games": 2,
+            "wins": 1,
+            "winRate": 0.5
+          },
+          {
+            "champion": "Viego",
+            "games": 2,
+            "wins": 1,
+            "winRate": 0.5
+          },
+          {
+            "champion": "Hecarim",
+            "games": 1,
+            "wins": 1,
+            "winRate": 1
+          }
+        ],
+        "totalGames": 10,
+        "totalWinRate": 0.7,
+        "avgKDA": "6.9/5.8/6.8",
+        "avgCsPerMin": 4.5,
+        "avgGameDurationMin": 28.6,
+        "avgVisionScore": 59.2
+      }
+    },
+    {
+      "gameName": "月 姫",
+      "tagLine": "xxx",
+      "puuid": "IeOujwq0yeSQnHlKE44iWD_67xPPOsFy9Ot_GtMk_WqjNGw44PMKLgsUBi10xXeayjW51weYWrcPKA",
+      "recentMatches": [
+        {
+          "championName": "Karma",
+          "win": false,
+          "kills": 1,
+          "deaths": 6,
+          "assists": 21,
+          "kda": "1/6/21",
+          "coreItems": [
+            "Redemption",
+            "Shurelya's Battlesong",
+            "Moonstone Renewer"
+          ],
+          "csPerMin": 0.9,
+          "gameDurationMin": 34.5,
+          "visionScore": 115
+        },
+        {
+          "championName": "Malzahar",
+          "win": true,
+          "kills": 1,
+          "deaths": 0,
+          "assists": 5,
+          "kda": "1/0/5",
+          "coreItems": [
+            "Liandry's Torment",
+            "Blackfire Torch"
+          ],
+          "csPerMin": 10.1,
+          "gameDurationMin": 15.2,
+          "visionScore": 14
+        },
+        {
+          "championName": "Diana",
+          "win": true,
+          "kills": 2,
+          "deaths": 1,
+          "assists": 1,
+          "kda": "2/1/1",
+          "coreItems": [
+            "Hextech Rocketbelt"
+          ],
+          "csPerMin": 8.8,
+          "gameDurationMin": 15.2,
+          "visionScore": 8
+        },
+        {
+          "championName": "Galio",
+          "win": true,
+          "kills": 4,
+          "deaths": 0,
+          "assists": 19,
+          "kda": "4/0/19",
+          "coreItems": [
+            "Riftmaker",
+            "Hextech Rocketbelt"
+          ],
+          "csPerMin": 6.7,
+          "gameDurationMin": 28,
+          "visionScore": 17
+        },
+        {
+          "championName": "Viktor",
+          "win": false,
+          "kills": 1,
+          "deaths": 3,
+          "assists": 0,
+          "kda": "1/3/0",
+          "coreItems": [
+            "Blackfire Torch"
+          ],
+          "csPerMin": 7.9,
+          "gameDurationMin": 15.5,
+          "visionScore": 12
+        },
+        {
+          "championName": "Garen",
+          "win": false,
+          "kills": 6,
+          "deaths": 8,
+          "assists": 4,
+          "kda": "6/8/4",
+          "coreItems": [
+            "Stridebreaker",
+            "Phantom Dancer"
+          ],
+          "csPerMin": 6.3,
+          "gameDurationMin": 24.5,
+          "visionScore": 13
+        },
+        {
+          "championName": "Diana",
+          "win": false,
+          "kills": 10,
+          "deaths": 7,
+          "assists": 20,
+          "kda": "10/7/20",
+          "coreItems": [
+            "Rabadon's Deathcap",
+            "Zhonya's Hourglass",
+            "Void Staff"
+          ],
+          "csPerMin": 6.6,
+          "gameDurationMin": 38.2,
+          "visionScore": 40
+        },
+        {
+          "championName": "Galio",
+          "win": true,
+          "kills": 4,
+          "deaths": 4,
+          "assists": 12,
+          "kda": "4/4/12",
+          "coreItems": [
+            "Zhonya's Hourglass",
+            "Void Staff",
+            "Hextech Rocketbelt"
+          ],
+          "csPerMin": 6.8,
+          "gameDurationMin": 31.9,
+          "visionScore": 20
+        },
+        {
+          "championName": "Galio",
+          "win": false,
+          "kills": 4,
+          "deaths": 2,
+          "assists": 13,
+          "kda": "4/2/13",
+          "coreItems": [
+            "Zhonya's Hourglass",
+            "Shadowflame",
+            "Hextech Rocketbelt"
+          ],
+          "csPerMin": 7,
+          "gameDurationMin": 35.3,
+          "visionScore": 32
+        },
+        {
+          "championName": "Diana",
+          "win": true,
+          "kills": 1,
+          "deaths": 3,
+          "assists": 15,
+          "kda": "1/3/15",
+          "coreItems": [
+            "Zhonya's Hourglass",
+            "Stormsurge",
+            "Hextech Rocketbelt"
+          ],
+          "csPerMin": 7.6,
+          "gameDurationMin": 28.3,
+          "visionScore": 27
+        }
+      ],
+      "summary": {
+        "championPool": [
+          {
+            "champion": "Diana",
+            "games": 3,
+            "wins": 2,
+            "winRate": 0.667
+          },
+          {
+            "champion": "Galio",
+            "games": 3,
+            "wins": 2,
+            "winRate": 0.667
+          },
+          {
+            "champion": "Malzahar",
+            "games": 1,
+            "wins": 1,
+            "winRate": 1
+          },
+          {
+            "champion": "Garen",
+            "games": 1,
+            "wins": 0,
+            "winRate": 0
+          },
+          {
+            "champion": "Karma",
+            "games": 1,
+            "wins": 0,
+            "winRate": 0
+          },
+          {
+            "champion": "Viktor",
+            "games": 1,
+            "wins": 0,
+            "winRate": 0
+          }
+        ],
+        "totalGames": 10,
+        "totalWinRate": 0.5,
+        "avgKDA": "3.4/3.4/11",
+        "avgCsPerMin": 6.9,
+        "avgGameDurationMin": 26.7,
+        "avgVisionScore": 29.8
+      }
+    },
+    {
+      "gameName": "Jubilant veil",
+      "tagLine": "JP2",
+      "puuid": "yj295jAAlGkqM570sbFbMGMe3KChkJmAkq1nlxzSgRr_uebLPK6MzB01U-tNt30G8do8lHZAhZRi1A",
+      "recentMatches": [
+        {
+          "championName": "Caitlyn",
+          "win": false,
+          "kills": 7,
+          "deaths": 15,
+          "assists": 9,
+          "kda": "7/15/9",
+          "coreItems": [
+            "Infinity Edge",
+            "Mortal Reminder",
+            "Hexoptics C44"
+          ],
+          "csPerMin": 6.7,
+          "gameDurationMin": 28.9,
+          "visionScore": 32
+        },
+        {
+          "championName": "Ezreal",
+          "win": true,
+          "kills": 10,
+          "deaths": 7,
+          "assists": 6,
+          "kda": "10/7/6",
+          "coreItems": [
+            "Trinity Force",
+            "Endless Hunger",
+            "Serylda's Grudge"
+          ],
+          "csPerMin": 7.2,
+          "gameDurationMin": 31.7,
+          "visionScore": 23
+        },
+        {
+          "championName": "Ezreal",
+          "win": true,
+          "kills": 14,
+          "deaths": 3,
+          "assists": 6,
+          "kda": "14/3/6",
+          "coreItems": [
+            "Trinity Force",
+            "Spear of Shojin",
+            "Endless Hunger"
+          ],
+          "csPerMin": 8.4,
+          "gameDurationMin": 25.9,
+          "visionScore": 13
+        },
+        {
+          "championName": "Nilah",
+          "win": true,
+          "kills": 2,
+          "deaths": 2,
+          "assists": 5,
+          "kda": "2/2/5",
+          "coreItems": [
+            "The Collector"
+          ],
+          "csPerMin": 6.9,
+          "gameDurationMin": 15.3,
+          "visionScore": 16
+        },
+        {
+          "championName": "Nilah",
+          "win": false,
+          "kills": 6,
+          "deaths": 7,
+          "assists": 1,
+          "kda": "6/7/1",
+          "coreItems": [
+            "Infinity Edge",
+            "Lord Dominik's Regards",
+            "The Collector"
+          ],
+          "csPerMin": 8.5,
+          "gameDurationMin": 24.1,
+          "visionScore": 17
+        },
+        {
+          "championName": "Karma",
+          "win": true,
+          "kills": 1,
+          "deaths": 3,
+          "assists": 29,
+          "kda": "1/3/29",
+          "coreItems": [
+            "Bandlepipes",
+            "Shurelya's Battlesong",
+            "Echoes of Helia"
+          ],
+          "csPerMin": 1.3,
+          "gameDurationMin": 38.7,
+          "visionScore": 152
+        },
+        {
+          "championName": "Ezreal",
+          "win": false,
+          "kills": 9,
+          "deaths": 9,
+          "assists": 0,
+          "kda": "9/9/0",
+          "coreItems": [
+            "Trinity Force",
+            "Muramana"
+          ],
+          "csPerMin": 6.6,
+          "gameDurationMin": 19.1,
+          "visionScore": 15
+        },
+        {
+          "championName": "Kaisa",
+          "win": true,
+          "kills": 8,
+          "deaths": 5,
+          "assists": 16,
+          "kda": "8/5/16",
+          "coreItems": [
+            "Infinity Edge",
+            "Kraken Slayer",
+            "Guinsoo's Rageblade"
+          ],
+          "csPerMin": 9.1,
+          "gameDurationMin": 31.8,
+          "visionScore": 36
+        },
+        {
+          "championName": "Ezreal",
+          "win": true,
+          "kills": 4,
+          "deaths": 2,
+          "assists": 5,
+          "kda": "4/2/5",
+          "coreItems": [
+            "Trinity Force",
+            "Muramana"
+          ],
+          "csPerMin": 9.8,
+          "gameDurationMin": 21.3,
+          "visionScore": 24
+        },
+        {
+          "championName": "Nilah",
+          "win": false,
+          "kills": 3,
+          "deaths": 4,
+          "assists": 1,
+          "kda": "3/4/1",
+          "coreItems": [
+            "Infinity Edge",
+            "The Collector"
+          ],
+          "csPerMin": 8.2,
+          "gameDurationMin": 21,
+          "visionScore": 20
+        }
+      ],
+      "summary": {
+        "championPool": [
+          {
+            "champion": "Ezreal",
+            "games": 4,
+            "wins": 3,
+            "winRate": 0.75
+          },
+          {
+            "champion": "Nilah",
+            "games": 3,
+            "wins": 1,
+            "winRate": 0.333
+          },
+          {
+            "champion": "Kaisa",
+            "games": 1,
+            "wins": 1,
+            "winRate": 1
+          },
+          {
+            "champion": "Karma",
+            "games": 1,
+            "wins": 1,
+            "winRate": 1
+          },
+          {
+            "champion": "Caitlyn",
+            "games": 1,
+            "wins": 0,
+            "winRate": 0
+          }
+        ],
+        "totalGames": 10,
+        "totalWinRate": 0.6,
+        "avgKDA": "6.4/5.7/7.8",
+        "avgCsPerMin": 7.3,
+        "avgGameDurationMin": 25.8,
+        "avgVisionScore": 34.8
+      }
+    },
+    {
+      "gameName": "だれでも",
+      "tagLine": "1108",
+      "puuid": "0wn9z0cHM8or4jQwgmGqd42pHmg1Y2iks7SdFYqbl8FZ6hGvNrkM9YKAfE38Y1vj549YJSlYT7ZuyA",
+      "recentMatches": [
+        {
+          "championName": "Karma",
+          "win": false,
+          "kills": 0,
+          "deaths": 9,
+          "assists": 6,
+          "kda": "0/9/6",
+          "coreItems": [
+            "Redemption",
+            "Echoes of Helia"
+          ],
+          "csPerMin": 1.7,
+          "gameDurationMin": 25.9,
+          "visionScore": 75
+        },
+        {
+          "championName": "Bard",
+          "win": false,
+          "kills": 1,
+          "deaths": 3,
+          "assists": 1,
+          "kda": "1/3/1",
+          "coreItems": [
+            "Shurelya's Battlesong"
+          ],
+          "csPerMin": 1.1,
+          "gameDurationMin": 15.2,
+          "visionScore": 24
+        },
+        {
+          "championName": "Karma",
+          "win": true,
+          "kills": 3,
+          "deaths": 5,
+          "assists": 24,
+          "kda": "3/5/24",
+          "coreItems": [
+            "Redemption",
+            "Shurelya's Battlesong",
+            "Echoes of Helia"
+          ],
+          "csPerMin": 1,
+          "gameDurationMin": 31.3,
+          "visionScore": 119
+        },
+        {
+          "championName": "Nautilus",
+          "win": false,
+          "kills": 2,
+          "deaths": 10,
+          "assists": 14,
+          "kda": "2/10/14",
+          "coreItems": [
+            "Protoplasm Harness",
+            "Bandlepipes",
+            "Zeke's Convergence"
+          ],
+          "csPerMin": 1,
+          "gameDurationMin": 44.5,
+          "visionScore": 183
+        },
+        {
+          "championName": "Elise",
+          "win": false,
+          "kills": 2,
+          "deaths": 7,
+          "assists": 7,
+          "kda": "2/7/7",
+          "coreItems": [
+            "Liandry's Torment",
+            "Stormsurge"
+          ],
+          "csPerMin": 5.6,
+          "gameDurationMin": 26.7,
+          "visionScore": 33
+        },
+        {
+          "championName": "Soraka",
+          "win": false,
+          "kills": 3,
+          "deaths": 6,
+          "assists": 6,
+          "kda": "3/6/6",
+          "coreItems": [
+            "Moonstone Renewer",
+            "Echoes of Helia"
+          ],
+          "csPerMin": 1.4,
+          "gameDurationMin": 27.9,
+          "visionScore": 63
+        },
+        {
+          "championName": "Leona",
+          "win": false,
+          "kills": 4,
+          "deaths": 7,
+          "assists": 6,
+          "kda": "4/7/6",
+          "coreItems": [
+            "Protoplasm Harness",
+            "Bandlepipes"
+          ],
+          "csPerMin": 1.7,
+          "gameDurationMin": 28.1,
+          "visionScore": 112
+        },
+        {
+          "championName": "Karma",
+          "win": true,
+          "kills": 1,
+          "deaths": 1,
+          "assists": 13,
+          "kda": "1/1/13",
+          "coreItems": [
+            "Mikael's Blessing",
+            "Moonstone Renewer"
+          ],
+          "csPerMin": 1.3,
+          "gameDurationMin": 27.1,
+          "visionScore": 95
+        },
+        {
+          "championName": "Elise",
+          "win": true,
+          "kills": 3,
+          "deaths": 6,
+          "assists": 12,
+          "kda": "3/6/12",
+          "coreItems": [
+            "Shadowflame",
+            "Liandry's Torment"
+          ],
+          "csPerMin": 6.1,
+          "gameDurationMin": 25.3,
+          "visionScore": 41
+        },
+        {
+          "championName": "Nautilus",
+          "win": false,
+          "kills": 4,
+          "deaths": 11,
+          "assists": 7,
+          "kda": "4/11/7",
+          "coreItems": [
+            "Bandlepipes",
+            "Zeke's Convergence"
+          ],
+          "csPerMin": 0.8,
+          "gameDurationMin": 25.4,
+          "visionScore": 96
+        }
+      ],
+      "summary": {
+        "championPool": [
+          {
+            "champion": "Karma",
+            "games": 3,
+            "wins": 2,
+            "winRate": 0.667
+          },
+          {
+            "champion": "Elise",
+            "games": 2,
+            "wins": 1,
+            "winRate": 0.5
+          },
+          {
+            "champion": "Nautilus",
+            "games": 2,
+            "wins": 0,
+            "winRate": 0
+          },
+          {
+            "champion": "Bard",
+            "games": 1,
+            "wins": 0,
+            "winRate": 0
+          },
+          {
+            "champion": "Leona",
+            "games": 1,
+            "wins": 0,
+            "winRate": 0
+          },
+          {
+            "champion": "Soraka",
+            "games": 1,
+            "wins": 0,
+            "winRate": 0
+          }
+        ],
+        "totalGames": 10,
+        "totalWinRate": 0.3,
+        "avgKDA": "2.3/6.5/9.6",
+        "avgCsPerMin": 2.2,
+        "avgGameDurationMin": 27.7,
+        "avgVisionScore": 84.1
+      }
+    }
+  ],
+  "teamSummary": {
+    "avgGameDurationMin": 27,
+    "winRateByDuration": {
+      "under25min": {
+        "games": 15,
+        "winRate": 0.467
+      },
+      "between25and35min": {
+        "games": 28,
+        "winRate": 0.643
+      },
+      "over35min": {
+        "games": 7,
+        "winRate": 0.286
+      }
+    }
+  }
+}
