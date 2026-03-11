@@ -22,3 +22,8 @@ Thumbs.db
 
 # Cache
 cache/
+
+# Temporary files
+tmp_*
+*.log
+*.html
