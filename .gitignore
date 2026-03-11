@@ -8,7 +8,7 @@ node_modules/
 dist/
 build/
 
-# Test logs (may contain player data)
+# Test logs (may contain real player data)
 test-logs/
 **/test-logs/
 
@@ -27,3 +27,15 @@ cache/
 tmp_*
 *.log
 *.html
+!patch-context/test/fixtures/*.html
+temp_outputs/
+
+# Private briefings and internal analysis reports (contain real player data)
+docs/briefing_*.md
+docs/opponent_analysis_*.md
+docs/practical_verification_report*.md
+docs/quality_comparison_note*.md
+docs/integration_test_briefing.md
+docs/integration_test_step0_log.md
+docs/step2_*_prompt.md
+docs/archive/
