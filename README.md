@@ -131,6 +131,7 @@ Add to your MCP client (e.g., `cline_mcp_settings.json`):
 cd patch-context && npx vitest run
 
 # Integration test (both servers)
+# Run from the repository root
 node scripts/run_integration_test.mjs
 ```
 
@@ -174,7 +175,7 @@ No raw player data is stored or redistributed. All match data is summarized in-m
 
 ## Development History
 
-- **Phase 0**: Mock data validation — proved LLM can generate coach-level analysis from structured summaries
+- **Phase 0**: Mock data validation — proved LLM can generate co-pilot / assistant-level analysis from structured summaries
 - **Phase 1–2**: Real data + patch automation — validated on JP solo queue data; patch parsing at ≥87% accuracy
 - **Phase 2.5–4**: Relevance pruning, reliability scoring, system stabilization
 - **Phase 5**: A-lite self-rehearsal — validated all 4 success criteria on both mock and real data
